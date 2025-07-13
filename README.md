@@ -70,12 +70,10 @@ Saya membangun dashboard interaktif dua halaman berdasarkan hasil analisis SQL &
 - Campaign weekend **kurang efektif**, weekdays lebih banyak menghasilkan transaksi
 
 ### File & Akses
-- [SQL Queries (ecommerce_trx.sql)](https://...)
-- [Python Notebook (Google Colab)](https://...)
-- [Looker Studio Dashboard](https://...)
+- [SQL Queries (ecommerce_trx.sql)](https://github.com/nisagusfatiha/ecommerce-transaction-analysis/blob/main/ecommerce_trx.sql)
+- [Python Notebook (Google Colab)](https://github.com/nisagusfatiha/ecommerce-transaction-analysis/blob/main/ecommerce_trx.ipynb)
+- [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/da6cbbae-1591-47ac-80d2-788291a9ae35)
 
 ---
-
-## 📩 Kontak
 📧 Email: nisagusfatiha.wrk@email.com  
 🔗 LinkedIn: [linkedin.com/in/nisagusfatiha](www.linkedin.com/in/nisa-gusfatiha)  
