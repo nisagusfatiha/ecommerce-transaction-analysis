@@ -19,11 +19,11 @@ Analisis ini menggunakan data simulasi transaksi e-commerce Tokopedia yang terdi
 
 ### SQL 
 Saya menggunakan SQL di BigQuery untuk menjawab berbagai pertanyaan analisis, di antaranya:
-- Bulan dengan nilai transaksi tertinggi tahun 2021
-- Kategori dengan penjualan tertinggi tahun 2022
-- Perbandingan performa kategori dari tahun 2021 ke 2022 (peningkatan/penurunan)
-- 5 metode pembayaran paling populer tahun 2022
-- Urutan nilai transaksi dari merek: Samsung, Apple, Sony, Huawei, Lenovo
+1. Bulan dengan nilai transaksi tertinggi tahun 2021
+2. Kategori dengan penjualan tertinggi tahun 2022
+3. Perbandingan performa kategori dari tahun 2021 ke 2022 (peningkatan/penurunan)
+4. Metode pembayaran paling populer tahun 2022
+5. Urutan nilai transaksi dari merek: Samsung, Apple, Sony, Huawei, Lenovo
 
 **Teknik SQL yang digunakan:**
 - `JOIN` antara empat tabel: `order_detail`, `sku_detail`, `payment_detail`, dan `customer_detail`
